@@ -27,10 +27,9 @@ do mercado, e isso, realmente está acontecendo. E estou feliz como resultado do
 principalmente os autodidatas.
 
 Abaixo está o link do meu perfil no github, tem poucos repositórios, mas está crescendo. É isso aí!
-
-Entra lá! <http://gtithub.com/madsantana>
 </div>
 
+Entra lá! <http://gtithub.com/madsantana>
 
 ![Desktop View]({{ "/assets/img/fotos/eu1.png" | relative_url }})
 

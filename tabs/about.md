@@ -19,7 +19,9 @@ Embora tenha começado três faculdades (Administração, Artes Visuais, e Biome
 Como comecei a trabalhar bem cedo, aos treze anos de idade, acabei desenvolvendo skills bem diversificados.
 
 Quer saber um pouco mais? Fica antenado neste blog... e, dá uma passadinha no meu linkedin: 
-<http://linkedin.com/in/marcodamaceno1>
+</div>
+
+<https://linkedin.com/in/marcodamaceno1>
 
 Obrigado pela visita!
-</div>
+>
