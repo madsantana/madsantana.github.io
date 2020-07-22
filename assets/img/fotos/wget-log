@@ -1,8 +1,0 @@
-Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
-ERROR: could not open HSTS store at '/home/usertest/.wget-hsts'. HSTS will be disabled.
---2020-07-22 17:21:15--  https://scontent.fcgh8-1.fna.fbcdn.net/v/t1.0-9/109004282_10216702434688514_1262597358890719089_o.jpg?_nc_cat=103
-Resolving scontent.fcgh8-1.fna.fbcdn.net (scontent.fcgh8-1.fna.fbcdn.net)... 201.6.8.81, 2804:14c:1f9:2:face:b00c:0:a7
-Connecting to scontent.fcgh8-1.fna.fbcdn.net (scontent.fcgh8-1.fna.fbcdn.net)|201.6.8.81|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2020-07-22 17:21:16 ERROR 403: Forbidden.
-
