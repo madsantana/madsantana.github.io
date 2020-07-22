@@ -17,9 +17,11 @@ Meu, o tempo passa, e as coisas mudam muito. Ontem mesmo, eu estava namorando, d
 Aos 42 anos de idade consegui migrar de área, saindo da área de infra, para a área de devops.
 
 As vezes sinto saudades da área de infra e redes, de por a mão na massa, como na imagem abaixo...
+</div>
 
 ![Desktop View]({{ "/assets/img/fotos/eu-redes.png" | relative_url }})
 
+<div style="text-align: justify"> 
 Mas... em janeiro de 2020, prometi a mim mesmo que em seis meses, me tornaria um dos profissionais mais disputados
 do mercado, e isso, realmente está acontecendo. E estou feliz como resultado do esforço e dedicação nos estudos,
 principalmente os autodidatas.
@@ -27,9 +29,12 @@ principalmente os autodidatas.
 Abaixo está o link do meu perfil no github, tem poucos repositórios, mas está crescendo. É isso aí!
 
 Entra lá! <http://gtithub.com/madsantana>
+</div>
+
 
 ![Desktop View]({{ "/assets/img/fotos/eu1.png" | relative_url }})
 
+<div style="text-lign: justify">
 Curtiram?
 
 Vem muito mais por aí... pois aqui, falaremos de tudo, não só de trabalho, mas sobre a vida no geral, amor, comida,
