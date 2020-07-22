@@ -18,10 +18,13 @@ Embora tenha começado três faculdades (Administração, Artes Visuais, e Biome
 
 Como comecei a trabalhar bem cedo, aos treze anos de idade, acabei desenvolvendo skills bem diversificados.
 
-Quer saber um pouco mais? Fica antenado neste blog... e, dá uma passadinha no meu linkedin: 
+Quer saber um pouco mais? Fica antenado neste blog... e, dá uma olhadinha nos links!
 </div>
 
-<https://linkedin.com/in/marcodamaceno1>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/madsantana)](https://github.com/madsantana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcodamaceno1)](https://linkedin.com/in/marcodamaceno1)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+011+946657346&text=Hello!)](https://api.whatsapp.com/send?phone=55+011+946657346&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco.damaceno@gmail.com)](mailto:marco.damaceno@gmail.com)
 
-Obrigado pela visita!
->
+Obrigado pela Visita!
+
