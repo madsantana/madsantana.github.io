@@ -37,7 +37,7 @@ Entra lá! <http://gtithub.com/madsantana>
 Curtiram?
 
 Vem muito mais por aí... pois aqui, falaremos de tudo, não só de trabalho, mas sobre a vida no geral, amor, comida,
-bebdas, e por aí vai!
+bebidas, e por aí vai!
 
 Um grande abraço galera! Uma vida longa e próspera a todos nós!
 </div>
