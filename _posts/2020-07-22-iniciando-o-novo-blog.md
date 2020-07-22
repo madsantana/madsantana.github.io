@@ -9,11 +9,10 @@ pin: true
 
 ### Um novo modo de se expressar, um novo blog, um novo Portifólio
 ***
-
+<div style="text-align: justify">
 Eae galera! Belesma?!
 
-Meu, o tempo passa, e as coisas mudam muito. Ontem mesmo, eu estava namorando, descolando um emprego "promissor"
-na área de televisão e video produção. E hoje, cá estou, realizando um sonho antigo, de trabalhar com desenvolviemento.
+Meu, o tempo passa, e as coisas mudam muito. Ontem mesmo, eu estava namorando, descolando um emprego "promissor" na área de televisão e video produção. E hoje, cá estou, realizando um sonho antigo, de trabalhar com desenvolviemento.
 
 Aos 42 anos de idade consegui migrar de área, saindo da área de infra, para a área de devops.
 
@@ -37,3 +36,4 @@ Vem muito mais por aí... pois aqui, falaremos de tudo, não só de trabalho, ma
 bebdas, e por aí vai!
 
 Um grande abraço galera! Uma vida longa e próspera a todos nós!
+</div>
