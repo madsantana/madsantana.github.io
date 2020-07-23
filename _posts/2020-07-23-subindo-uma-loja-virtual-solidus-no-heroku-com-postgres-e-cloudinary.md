@@ -9,7 +9,7 @@ pin: true
 
 Eae pessoal! Tudo bem com vocês?!
 <div style="text-align: justify">
-A uns dias atrás, reproduzi na minha VM Vagrant, um tutorial bem legal do Leonardo Scorza, do Onebitcode, ensinando a subir uma loja com a gem Solidus. Porém o tutorial ensinava o básico do básico, e uma modificação simples. Porém foi
+A uns dias atrás, reproduzi na minha VM Vagrant, um tutorial bem legal do Leonardo Scorza, do Onebitcode, ensinando a subir uma loja com a gem Solidus. Porém o tutorial ensinava o básico do básico, e uma modificação simples. Mas, foi
 o suficiente para despertar a curiosidade neste que vos escreve.
 
 Encontrei um outro tutorial, este da gringa, ensinando a subir uma loja Solidus no Heroku, usando Sqlite e armazenando
@@ -18,7 +18,7 @@ e armazenamento?
 
 E foi aí que surgiu a idéia deste tutorial, onde procuro usando as bases dos dois tutorias citados acima, mostrar como podemos, sem gastar um tostão, subir uma loja virtual funcional, usando Ruby on Rails, a gem solidus, armazenando as imagens no Cloudinary e fazendo o deploy no Heroku. Ou seja, ao final deste tutorial, você terá uma loja virtual solidus totalmente funcional, ficando à sua escolha a customização da mesma.
 
-Abaixo, segue os links dos tutoriais originais:</div>
+Abaixo, seguem os links dos tutoriais originais:</div>
 
 > Tutorial do Leonardo Scorza (Onebitcode): <https://onebitcode.com/e-commerce-rails/>
 
@@ -223,7 +223,7 @@ Agora, faça um commit com todas as alterações recentes e execute o push do se
 ```Terminal
 $git add .
 $git commit -m "Configure heroku Environment..."
-$gut push heroku master
+$git push heroku master
 ```
 
 Se o push foi executado sem erros, ao final do comando, você deve obter uma resposta como a da imagem abaixo:
@@ -251,7 +251,7 @@ heroku run rake db:seed
 Carregue os dados de exemplo com:
 
 ```Terminal
-$heroku run rake spree_sample:load - Figura 024
+$heroku run rake spree_sample:load
 ```
 
 A operação de seed criará o usuário admin, e a configuração básica para iniciar seu eCommerce e permitir que você comece a vender na internet.
