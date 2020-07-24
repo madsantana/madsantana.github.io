@@ -9,7 +9,7 @@ pin: true
 
 Eae pessoal! Tudo bem com vocês?!
 <div style="text-align: justify">
-A uns dias atrás, reproduzi na minha VM Vagrant, um tutorial bem legal do Leonardo Scorza, do Onebitcode, ensinando a subir uma loja com a gem Solidus. Porém o tutorial ensinava o básico do básico, e uma modificação simples. Mas, foi
+A uns dias atrás, reproduzi na minha VM Vagrant, um tutorial bem legal do Sérgio Lima, do Onebitcode, ensinando a subir uma loja com a gem Solidus. Porém o tutorial ensinava o básico do básico, e uma modificação simples. Mas, foi
 o suficiente para despertar a curiosidade neste que vos escreve.
 
 Encontrei um outro tutorial, este da gringa, ensinando a subir uma loja Solidus no Heroku, usando Sqlite e armazenando
@@ -20,7 +20,7 @@ E foi aí que surgiu a idéia deste tutorial, onde procuro usando as bases dos d
 
 Abaixo, seguem os links dos tutoriais originais:</div>
 
-> Tutorial do Leonardo Scorza (Onebitcode): <https://onebitcode.com/e-commerce-rails/>
+> Tutorial do Sérgio Lima (Onebitcode): <https://onebitcode.com/e-commerce-rails/>
 
 > Tutorial na Gringa (em inglês): <https://nebulab.it/blog/deploy-solidus-to-heroku-like-a-boss>
 
@@ -280,6 +280,9 @@ Dá uma olhada na loja criada neste tutorial:
 
 > Loja criada para este tutorial: <https://myecommerce01.herokuapp.com/>
 
+
+## Conclusão
+
 É isso pessoal, este foi meu primeiro tutorial, e espero de coração que vocês tenham gostado, e que seja tão útil para vocês como foi últil para mim ao escrevê-lo.
 
 Gostou?Tem críticas, correções ou mesmo sugestões de novos tópicos, por favor, curta, comente, e compartilhe... este espaço é todo seu!
@@ -288,7 +291,7 @@ Obrigado!
 
 ## Referências
 
-> Tutorial do Leonardo Scorza (Onebitcode): <https://onebitcode.com/e-commerce-rails>
+> Tutorial do Sérgio Lima (Onebitcode): <https://onebitcode.com/e-commerce-rails>
 
 > Tutorial na Gringa (em inglês): <https://nebulab.it/blog/deploy-solidus-to-heroku-like-a-boss>
 
