@@ -8,9 +8,9 @@ pin: true
 ---
 ![Ruby Badge](https://img.shields.io/badge/-Ruby-red)
 ![Rails Badge](https://img.shields.io/badge/-Rails-green)
-![Cludinary Badge](https://img.shields.io/badge/-Cloudinary-blue)
 ![Heroku Badge](https://img.shields.io/badge/-Heroku-purple)
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-grey)
+![Cludinary Badge](https://img.shields.io/badge/-Cloudinary-blue)
 
 Eae pessoal! Tudo bem com vocês?!
 <div style="text-align: justify">
