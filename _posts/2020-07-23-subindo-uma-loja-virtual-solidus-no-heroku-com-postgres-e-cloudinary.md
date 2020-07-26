@@ -62,7 +62,7 @@ $git init
 $git add .
 ```
 
-Faça um commit iniciai para o projeto:
+Faça um commit inicial para o projeto:
 
 ```Terminal
 $git commit -m "Initial commit on project..."
