@@ -51,7 +51,7 @@ Vamos preparar o ambiente e criar o projeto, utilizando o Rails, para isso, exec
 ```Terminal
 $rails new my_security_app
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-000.JPG" | relative_url }})
+![Criando a Aplicação][{{site.url}}/assets/img/tutoriais/security-app/security-000.JPG]
 
 Vamos para a pasta que foi criada para o projeto:
 
