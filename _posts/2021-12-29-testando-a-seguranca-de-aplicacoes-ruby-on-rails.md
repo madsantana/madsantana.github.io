@@ -64,11 +64,11 @@ Vamos subir a aplicação uma primeira vez para nos certificar de que o Rails fe
 ```Terminal
 $rails s
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-001.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security001.jpg" | relative_url }})
 
 Se tudo ocorreu bem até aqui, você deve vizualisar algo como a imagem abaixo:
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-002.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security002.jpg" | relative_url }})
 
 Maravilha, nosso app está funcionando! Mas, será que ele está seguro? É o que vamos descobrir a seguir.
 
@@ -79,7 +79,7 @@ Não é necessário adicionar a gem no Gemfile, neste caso, estando na pasta do 
 ```Terminal
 $gem install brakeman
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-003.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security003.jpg" | relative_url }})
 
 A partir daqui não é necessário muita coisa, basta apenas, após instalar a gem, executá-la:
 
@@ -92,26 +92,26 @@ Ou, caso queira que o scanner gere um relatório html, rode-o da seguinte maneir
 $brakeman -o my_security_app_report.html
 ```
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-004.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security004.jpg" | relative_url }})
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-005.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security005.jpg" | relative_url }})
 
 
 ## Dando aquele check no relatório final
 
 Conforme podemos ver nas próximas imagens, o brakeman gera um relatório bem completo e detalhado quando encontra alguma vulnerabilidade:
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-006.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security006.jpg" | relative_url }})
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-007.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security007.jpg" | relative_url }})
 
 Aqui, rodei com a opção de criar um arquivo html, na imagem abaixo vemos para o nosso app criado para este tutorial, e notamos que aplicações criadas com ruby 3 rails 6 praticamente não apresentam  vulnerabilidades.
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-012.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security012.jpg" | relative_url }})
 
 E na próxima imagem, rodei o brakeman em um projeto mais antigo, e que neste caso, detectou duas vulnerabilidades:
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-013.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security013.jpg" | relative_url }})
 
 
 ## Instalando e usando a gem hakiri
@@ -125,14 +125,14 @@ Rode os comandos abaixo: (na pasta do projeto)
 ```Terminal
 $gem install hakiri
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-008.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security008.jpg" | relative_url }})
 
 A gem estado instalada, basta gerar o manifesto json e após rodar o scan propriamente dito:
 
 ```Terminal
 $hakiri manifest:generate
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-009.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security009.jpg" | relative_url }})
 
 
 Rodando o scan:
@@ -140,14 +140,14 @@ Rodando o scan:
 ```Terminal
 $hakiri system:scan
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-010.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security010.jpg" | relative_url }})
 
 
 ## Conferindo o relatório gerado pelo hakiri
 
 Como podemos ver na imagem acima, o hakiri não detectou muitas das ferramentas geralmente instaladas em servidores que rodam aplicações rails, afinal, estou rodando na minha máquina local, um WSL 2 rodando no Windows 10. Porém, conforme podemos ver na outra imagem, ele detectou diversas vulnerabilidades no sistema operacional, e isto é importante, pois precisamos estar atentos não só a segurança da nossa aplicação, mas também a segurança da nossa infra, seja ela local ou na nuvem.
 
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-011.JPG" | relative_url }})
+![Desktop View]({{ "/assets/img/tutoriais/security/security011.jpg" | relative_url }})
 
 
 ## Rodei os scanners! Meu Deus, e agora?!
