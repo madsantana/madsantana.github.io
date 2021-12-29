@@ -10,10 +10,11 @@ pin: true
 ![Rails Badge](https://img.shields.io/badge/-Rails-green)
 
 Salve galera! Como vocês estão?! Faz um bom tempo que não escrevo aqui, né?
+
 <div style="text-align: justify">
 Com tantas vulnerabilidades, algumas do tipo Zero-day, surgindo todos os dias, a tendência é que acabamos ficando apreensivos quanto as possíveis vulnerabilidades que possam existir em nossas aplicações Ruby on Rails.
 
-Então invariavelmente surge a dúvida, como estar nossas aplicações RoR?
+Então invariavelmente surge a dúvida, como testar nossas aplicações RoR?
 
 Rspec infelizmente não faz este tipo de trabalho, testando apenas a sintaxe. Então temos que procurar outras alternativas. Um pentest comum, usando as ferramentas mais conhecidas do mercado, como burpsuite, metasploit, dentre outros, também não ajudam muito, pois são ferramentas (por melhores que sejam) genéricas, não se aplicando para aplicações Rails.
 
