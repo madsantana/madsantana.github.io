@@ -128,7 +128,7 @@ $gem install hakiri
 ```
 ![Desktop View]({{ "/assets/img/tutoriais/security/security008.jpg" | relative_url }})
 
-A gem estado instalada, basta gerar o manifesto json e após rodar o scan propriamente dito:
+A gem estando instalada, basta gerar o manifesto json e após rodar o scan propriamente dito:
 
 ```Terminal
 $hakiri manifest:generate
