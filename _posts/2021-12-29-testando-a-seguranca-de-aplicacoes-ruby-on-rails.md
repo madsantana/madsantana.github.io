@@ -73,7 +73,7 @@ Se tudo ocorreu bem até aqui, você deve vizualisar algo como a imagem abaixo:
 
 Maravilha, nosso app está funcionando! Mas, será que ele está seguro? É o que vamos descobrir a seguir.
 
-## Isntalando a gem Brakeman
+## Instalando a gem Brakeman
 
 Não é necessário adicionar a gem no Gemfile, neste caso, estando na pasta do projeto, basta rodar o comando abaixo:
 
