@@ -51,7 +51,7 @@ Vamos preparar o ambiente e criar o projeto, utilizando o Rails, para isso, exec
 ```Terminal
 $rails new my_security_app
 ```
-![Criando a Aplicação]({{ "/assets/img/tutoriais/solidus-heroku/security-000.JPG" | relative_url }})
+![Criando a Aplicação]({{ "/assets/img/tutoriais/security/security000.jpg" | relative_url }})
 
 Vamos para a pasta que foi criada para o projeto:
 
