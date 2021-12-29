@@ -1,7 +1,7 @@
 ---
 title: Testando a Segurança de Aplicações Ruby on Rails
 author: Madsantana, aka, Marco Antonio Damaceno
-date: 2020-12-29 10:49 +0300
+date: 2021-12-29 10:49 +0300
 categories: [Blogging]
 tags: [tutoriais, tutorial, ruby, rails, segurança da informação, hacking, vulnerabilidade, pentest, hakiri, brakeman, devsecops]
 pin: true
