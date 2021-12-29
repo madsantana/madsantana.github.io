@@ -37,7 +37,7 @@ A partir daqui, vamos criar uma aplicação básica usando o ruby 3 e o rails, p
 
 Resumindo, a gem brakeman fez uma varredura a nível de código fonte no projeto, retornando ao final um relatório berm extenso, que inclusive pode ser gerado em html, vale realmente a pena.
 
-A gem hakiri faz um trabalho mais no "entorno" do projeto, procurando por possíveis vulnerabilidades no sistema operacional, nas versões do ruby que estão instalada na máquina e em outras aplicações como apache, passenger, etc.</div>
+A gem hakiri faz um trabalho mais no "entorno" do projeto, procurando por possíveis vulnerabilidades no sistema operacional, nas versões do ruby que estão instaladas na máquina e em outras aplicações como apache, passenger, etc.</div>
 
 |Ferramenta|Versão|Observações|
 |:---|:--|---:|
