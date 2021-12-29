@@ -1,7 +1,7 @@
 ---
 title: Testando a Segurança de Aplicações Ruby on Rails
 author: Madsantana, aka, Marco Antonio Damaceno
-date: 2020-12-29 10:49 +0300
+date: 2021-12-29 10:49 +0300
 categories: [Blogging]
 tags: [tutoriais, tutorial, ruby, rails, segurança da informação, hacking, vulnerabilidade, pentest, hakiri, brakeman, devsecops]
 pin: true
@@ -51,7 +51,7 @@ Vamos preparar o ambiente e criar o projeto, utilizando o Rails, para isso, exec
 ```Terminal
 $rails new my_security_app
 ```
-![Desktop View]({{ "/assets/img/tutoriais/security-app/security-000.JPG" | relative_url }})
+![Rails New App]({{ "/assets/img/tutoriais/security/security000.jpg" | relative_url }})
 
 Vamos para a pasta que foi criada para o projeto:
 
